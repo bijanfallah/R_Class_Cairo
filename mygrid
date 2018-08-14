@@ -1,0 +1,5 @@
+gridtype  = cell
+gridsize  = 4
+#             Cairo   Alexandria   El_Gouna  Aswan 
+xvals     = 31.235712 29.894379 33.674287 32.897306
+yvals     = 30.044420 31.199003 27.398898 24.091071
