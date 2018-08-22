@@ -1,0 +1,242 @@
+---
+title: "ELgouna R Course -- Climate Change"
+author: "Bijan Fallah"
+date: "21 August 2018"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+\section{RCP 4.5}
+
+# Cairo 
+\frame{\includegraphics{rcp45_plots/Cairo_Trends_yearmean_RCP45_TP.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp45_plots/Alexandria_Trends_yearmean_RCP45_TP.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp45_plots/El Gouna_Trends_yearmean_RCP45_TP.pdf}}
+\newpage
+
+# Aswan
+\frame{\includegraphics{rcp45_plots/Aswan_Trends_yearmean_RCP45_TP.pdf}}
+\newpage
+
+
+
+
+
+\frame{\includegraphics{rcp45_plots/JJA_daymax_hist_RCP45.pdf}}
+\newpage
+\frame{\includegraphics{rcp45_plots/DJF_daymax_hist_RCP45.pdf}}
+\newpage
+\frame{\includegraphics{rcp45_plots/JJA_daymin_hist_RCP45.pdf}}
+\newpage
+\frame{\includegraphics{rcp45_plots/DJF_daymin_hist_RCP45.pdf}}
+\newpage
+
+\frame{\includegraphics{rcp45_plots/Tropical_Nights_RCP45.pdf}}
+\newpage
+\frame{\includegraphics{rcp45_plots/Summer_days_RCP45.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp45_plots/Alexandria_Trends_JJA_daymax_RCP45.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp45_plots/Alexandria_Trends_DJF_daymax_RCP45.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp45_plots/Alexandria_Trends_JJA_daymin_RCP45.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp45_plots/Alexandria_Trends_DJF_daymin_RCP45.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp45_plots/Alexandria_Trends_yearmean_RCP45.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp45_plots/Cairo_Trends_JJA_daymax_RCP45.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp45_plots/Cairo_Trends_DJF_daymax_RCP45.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp45_plots/Cairo_Trends_JJA_daymin_RCP45.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp45_plots/Cairo_Trends_DJF_daymin_RCP45.pdf}}
+\newpage
+
+# Cairo 
+\frame{\includegraphics{rcp45_plots/Cairo_Trends_yearmean_RCP45.pdf}}
+\newpage
+ 
+# Aswan
+\frame{\includegraphics{rcp45_plots/Aswan_Trends_JJA_daymax_RCP45.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp45_plots/Aswan_Trends_DJF_daymax_RCP45.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp45_plots/Aswan_Trends_JJA_daymin_RCP45.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp45_plots/Aswan_Trends_DJF_daymin_RCP45.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp45_plots/Aswan_Trends_yearmean_RCP45.pdf}}
+\newpage 
+
+# El Gouna
+\frame{\includegraphics{rcp45_plots/El Gouna_Trends_JJA_daymax_RCP45.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp45_plots/El Gouna_Trends_DJF_daymax_RCP45.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp45_plots/El Gouna_Trends_JJA_daymin_RCP45.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp45_plots/El Gouna_Trends_DJF_daymin_RCP45.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp45_plots/El Gouna_Trends_yearmean_RCP45.pdf}}
+\newpage
+
+\section{RCP 8.5}
+#---------------------------------------------------------------------------
+
+# Cairo 
+\frame{\includegraphics{rcp85_plots/Cairo_Trends_yearmean_RCP85_TP.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp85_plots/Alexandria_Trends_yearmean_RCP85_TP.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp85_plots/El Gouna_Trends_yearmean_RCP85_TP.pdf}}
+\newpage
+
+# Aswan
+\frame{\includegraphics{rcp85_plots/Aswan_Trends_yearmean_RCP85_TP.pdf}}
+\newpage
+
+
+
+
+\frame{\includegraphics{rcp85_plots/JJA_daymax_hist_RCP85.pdf}}
+\newpage
+\frame{\includegraphics{rcp85_plots/DJF_daymax_hist_RCP85.pdf}}
+\newpage
+\frame{\includegraphics{rcp85_plots/JJA_daymin_hist_RCP85.pdf}}
+\newpage
+\frame{\includegraphics{rcp85_plots/DJF_daymin_hist_RCP85.pdf}}
+\newpage
+
+\frame{\includegraphics{rcp85_plots/Tropical_Nights_RCP85.pdf}}
+\newpage
+\frame{\includegraphics{rcp85_plots/Summer_days_RCP85.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp85_plots/Alexandria_Trends_JJA_daymax_RCP85.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp85_plots/Alexandria_Trends_DJF_daymax_RCP85.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp85_plots/Alexandria_Trends_JJA_daymin_RCP85.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp85_plots/Alexandria_Trends_DJF_daymin_RCP85.pdf}}
+\newpage
+
+# Alexandria
+\frame{\includegraphics{rcp85_plots/Alexandria_Trends_yearmean_RCP85.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp85_plots/Cairo_Trends_JJA_daymax_RCP85.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp85_plots/Cairo_Trends_DJF_daymax_RCP85.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp85_plots/Cairo_Trends_JJA_daymin_RCP85.pdf}}
+\newpage
+
+# Cairo
+\frame{\includegraphics{rcp85_plots/Cairo_Trends_DJF_daymin_RCP85.pdf}}
+\newpage
+
+# Cairo 
+\frame{\includegraphics{rcp85_plots/Cairo_Trends_yearmean_RCP85.pdf}}
+\newpage
+ 
+# Aswan
+\frame{\includegraphics{rcp85_plots/Aswan_Trends_JJA_daymax_RCP85.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp85_plots/Aswan_Trends_DJF_daymax_RCP85.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp85_plots/Aswan_Trends_JJA_daymin_RCP85.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp85_plots/Aswan_Trends_DJF_daymin_RCP85.pdf}}
+\newpage
+
+#Aswan
+\frame{\includegraphics{rcp85_plots/Aswan_Trends_yearmean_RCP85.pdf}}
+\newpage 
+
+# El Gouna
+\frame{\includegraphics{rcp85_plots/El Gouna_Trends_JJA_daymax_RCP85.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp85_plots/El Gouna_Trends_DJF_daymax_RCP85.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp85_plots/El Gouna_Trends_JJA_daymin_RCP85.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp85_plots/El Gouna_Trends_DJF_daymin_RCP85.pdf}}
+\newpage
+
+# El Gouna
+\frame{\includegraphics{rcp85_plots/El Gouna_Trends_yearmean_RCP85.pdf}}
+\newpage
+
